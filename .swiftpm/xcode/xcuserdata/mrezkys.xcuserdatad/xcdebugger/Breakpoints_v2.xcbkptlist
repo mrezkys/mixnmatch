@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "823D8778-C769-4016-B4EE-4C7AB99EA71A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C851D231-D417-42EB-B3E1-F66282686642"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StepOneView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C851D231-D417-42EB-B3E1-F66282686642 - 72989bcd9d6894b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, mixnmatch.StepTwoView&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, mixnmatch.StepTwoView&gt;)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, mixnmatch.StepTwoView&gt;)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, mixnmatch.StepTwoView&gt;)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in mixnmatch.StepOneView.body.getter : some"
+                  moduleName = "mixnmatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrezkys/Desktop/ada/wwdc/mixnmatch.swiftpm/StepOneView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "C851D231-D417-42EB-B3E1-F66282686642 - 2944593b648a26d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, mixnmatch.StepTwoView&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, mixnmatch.StepTwoView&gt;)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, mixnmatch.StepTwoView&gt;)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, mixnmatch.StepTwoView&gt;)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in mixnmatch.StepOneView.body.getter : some"
+                  moduleName = "mixnmatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrezkys/Desktop/ada/wwdc/mixnmatch.swiftpm/StepOneView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB8C885D-12D2-45BF-9BD3-5E0C98810765"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorGenerator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
